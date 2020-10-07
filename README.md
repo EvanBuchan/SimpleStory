@@ -1,2 +1,2 @@
 # SimpleStory
-hello world!
+hello world.
